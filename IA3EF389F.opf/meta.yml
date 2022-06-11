@@ -1,0 +1,25 @@
+id: IA3EF389F
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:16:40.631833'
+last_modified: '2022-06-11T13:16:40.631874'
+parser: null
+source_metadata:
+  title: Vairotsana Series
+  language: en
+  description: 'Texts by and about Pagor Vairotsana (fl. 8th C.), the greatest of
+    the early Tibetan translators:'
+  volume:
+    f0E01:
+      title: Sādhana of the Great Master Vairotsana
+      base_file: f0E01.txt
+      order: 1
+      parent: Sādhanas
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
